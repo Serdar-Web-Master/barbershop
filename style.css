@@ -1,0 +1,11 @@
+
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+/* Carousel */
+.carousel-inner {
+    height: 500px;
+}
+/* Carousel */
